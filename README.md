@@ -5,6 +5,6 @@ A template repo for a clean install of python3.11.4, and dependencies for GPU co
 
 To complete the full setup, just run:
 ```bash
-chmod +x setup_pyenv.sh
+chmod +x setup.sh
 bash setup.sh
 ```
